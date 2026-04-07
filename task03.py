@@ -1,5 +1,6 @@
-son = 24567
+wr = "24567"
 
-wr = son.split()
 
-result = 
+result = "-".join(wr)
+
+print(result)
